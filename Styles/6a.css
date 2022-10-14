@@ -1,0 +1,14 @@
+.Deal {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.period {
+  font-family: arial;
+  font-size: 20px;
+  margin-top: 0;
+  font-style: italic;
+  color: red;
+}
