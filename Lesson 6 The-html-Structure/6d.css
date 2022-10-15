@@ -1,0 +1,15 @@
+p {
+  font-family: arial;
+  text-align: center;
+}
+
+.title {
+font-weight: bold;
+font-size: 40px;
+margin-bottom: 25px;
+}
+
+.help {
+font-size: 20px;
+margin-top: 0;
+}
