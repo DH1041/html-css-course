@@ -1,0 +1,43 @@
+.text {
+  font-family: Arial;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+
+.pickup-box,
+.destination-box {
+  display: block;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 300px;
+  background-color: rgb(241, 240, 240);
+  border: none;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.schedule-button {
+  background-color: rgb(241, 240, 240);
+  color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+  margin-left: 10px;
+  cursor: pointer;
+}
