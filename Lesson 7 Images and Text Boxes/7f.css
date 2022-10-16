@@ -1,0 +1,39 @@
+p {
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.email {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.box {
+  font-size: 20px;
+  width: 390px;
+  border-width: 2px;
+  border-color: rgb(100, 100, 100);
+  border-radius: 5px;
+  border-style: solid;
+  margin-bottom: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.disclaimer {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 30px;
+  border: none;
+  cursor: pointer;
+}
